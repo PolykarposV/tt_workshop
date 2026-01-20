@@ -16,5 +16,5 @@ Used the template to customize the display of the 7 segment. Activating the corr
 The code is a secret, try to find it out yourself.
 
 ## External hardware
-
+No external hardware
 
